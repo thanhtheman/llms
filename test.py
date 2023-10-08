@@ -1,13 +1,19 @@
-import requests, os
-from dotenv import load_dotenv, find_dotenv
-load_dotenv(find_dotenv())
+# Using 'return' in a function to get squares of numbers up to n
+def get_squares_with_return(n):
+    squares = []
+    for i in range(1, n+1):
+        squares.append(i * i)
+    return squares
 
-url = "https://api.elevenlabs.io/v1/voices"
+# Using 'yield' in a generator to get squares of numbers up to n
+def get_squares_with_yield(n):
+    for i in range(1, n+1):
+        yield i * i
 
-headers = {
-  "Accept": "application/json",
-  "xi-api-key": os.getenv("ELEVENLABS_API")
-}
-response = requests.get(url, headers=headers)
-with open("elevenLabsVoices.json", "w") as f:
-  f.write(response.text)
+# Using the function with 'return'
+squares_return = get_squares_with_return(5)
+print(f"Using return: {squares_return}")
+
+# Using the generator with 'yield'
+# squares_yield = list(get_squares_with_yield(5))
+# print(f"Using yield: {squares_yield}")
