@@ -1,0 +1,2263 @@
+[
+  {
+    "address": "707-155 Yorkville Avenue Toronto ON",
+    "price": "660,000",
+    "bed": "1+1 bed",
+    "bath": "1 bath",
+    "area": "600-699 sqft"
+  },
+  {
+    "address": "1140-35 Viking Lane Toronto ON",
+    "price": "828,000",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "1000-1199 sqft"
+  },
+  {
+    "address": "3-125 Long Branch Avenue Toronto ON",
+    "price": "899,000",
+    "bed": "2 bed",
+    "bath": "3 bath",
+    "area": "1200-1399 sqft"
+  },
+  {
+    "address": "#1609-5508 Yonge Street Toronto ON",
+    "price": "699,000",
+    "bed": "2 bed",
+    "bath": "1 bath",
+    "area": "700-799 sqft"
+  },
+  {
+    "address": "198 Lauder Avenue Toronto ON",
+    "price": "1,695,000",
+    "bed": "5 bed",
+    "bath": "3.00 bath",
+    "area": "Built in 1909"
+  },
+  {
+    "address": "1413-1346 Danforth Road Toronto ON",
+    "price": "419,000",
+    "bed": "\u2013 bed",
+    "bath": "1 bath",
+    "area": "0-499 sqft"
+  },
+  {
+    "address": "210-19 Avondale Avenue Toronto ON",
+    "price": "429,000",
+    "bed": "\u2013 bed",
+    "bath": "1 bath",
+    "area": "0-499 sqft"
+  },
+  {
+    "address": "21 Shoreview Drive Toronto ON",
+    "price": "1,200,000",
+    "bed": "4 bed",
+    "bath": "2 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "29 George Webster Road Toronto ON",
+    "price": "1,399,000",
+    "bed": "6+2 bed",
+    "bath": "3 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "609-68 Broadview Avenue Toronto ON",
+    "price": "1,599,000",
+    "bed": "1+1 bed",
+    "bath": "2 bath",
+    "area": "1200-1399 sqft"
+  },
+  {
+    "address": "30 Carscadden Drive Toronto ON",
+    "price": "990,000",
+    "bed": "3+1 bed",
+    "bath": "3 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "921-500 Doris Avenue N Toronto ON",
+    "price": "849,900",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "800-899 sqft"
+  },
+  {
+    "address": "1507-19 Western Battery Road Toronto ON",
+    "price": "N/A",
+    "bed": "\u2014 bed",
+    "bath": "\u2014 bath",
+    "area": "\u2014 sqft"
+  },
+  {
+    "address": "102 Laurel Avenue Toronto ON",
+    "price": "1,299,000",
+    "bed": "4 bed",
+    "bath": "3 bath",
+    "area": "0-5 Years Old"
+  },
+  {
+    "address": "5510-7 Grenville Street Toronto ON",
+    "price": "799,770",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "500-599 sqft"
+  },
+  {
+    "address": "1607-240 Scarlett Road Toronto ON",
+    "price": "645,000",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "800-899 sqft"
+  },
+  {
+    "address": "2811-8 The Esplanade N/a Toronto ON",
+    "price": "949,999",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "800-899 sqft"
+  },
+  {
+    "address": "806 Kingston Road Toronto ON",
+    "price": "N/A",
+    "bed": "\u2014 bed",
+    "bath": "\u2014 bath",
+    "area": "\u2014 sqft"
+  },
+  {
+    "address": "18 Beaverbrook Avenue Toronto ON",
+    "price": "3,599,000",
+    "bed": "4 bed",
+    "bath": "5 bath",
+    "area": "3000-3500 sqft"
+  },
+  {
+    "address": "223 Willowdale Avenue Toronto ON",
+    "price": "1,899,800",
+    "bed": "4 bed",
+    "bath": "2 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "2901-185 Roehampton Avenue Toronto ON",
+    "price": "799,000",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "700-799 sqft"
+  },
+  {
+    "address": "906-85 Queens Wharf Road Toronto ON",
+    "price": "980,000",
+    "bed": "3 bed",
+    "bath": "2 bath",
+    "area": "1000-1199 sqft"
+  },
+  {
+    "address": "206-2015 Sheppard Avenue E Toronto ON",
+    "price": "438,000",
+    "bed": "\u2013 bed",
+    "bath": "1 bath",
+    "area": "0-499 sqft"
+  },
+  {
+    "address": "208 Wintermute Boulevard Toronto ON",
+    "price": "1,418,000",
+    "bed": "3+1 bed",
+    "bath": "4 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "504-761 Bay Street Toronto ON",
+    "price": "798,800",
+    "bed": "1 bed",
+    "bath": "2 bath",
+    "area": "700-799 sqft"
+  },
+  {
+    "address": "16 Japonica Road Toronto ON",
+    "price": "988,000",
+    "bed": "3+3 bed",
+    "bath": "4 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "610-18 Graydon Hall Drive Toronto ON",
+    "price": "620,000",
+    "bed": "1+1 bed",
+    "bath": "1 bath",
+    "area": "600-699 sqft"
+  },
+  {
+    "address": "1523-3 Greystone Walk Drive Toronto ON",
+    "price": "574,900",
+    "bed": "2+1 bed",
+    "bath": "2 bath",
+    "area": "1000-1199 sqft"
+  },
+  {
+    "address": "706-85 Queens Wharf Road Toronto ON",
+    "price": "1,089,900",
+    "bed": "3 bed",
+    "bath": "2 bath",
+    "area": "1000-1199 sqft"
+  },
+  {
+    "address": "2102-5 Michael Power Place Toronto ON",
+    "price": "660,000",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "800-899 sqft"
+  },
+  {
+    "address": "815-60 Tannery Road Toronto ON",
+    "price": "618,000",
+    "bed": "1+1 bed",
+    "bath": "1 bath",
+    "area": "600-699 sqft"
+  },
+  {
+    "address": "1909-2221 Yonge Street Toronto ON",
+    "price": "849,900",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "700-799 sqft"
+  },
+  {
+    "address": "808-511 The West Mall Avenue Toronto ON",
+    "price": "624,800",
+    "bed": "2+1 bed",
+    "bath": "2 bath",
+    "area": "1200-1399 sqft"
+  },
+  {
+    "address": "1802-15 Mercer Street Toronto ON",
+    "price": "848,000",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "600-699 sqft"
+  },
+  {
+    "address": "502-90 Dale Avenue S Toronto ON",
+    "price": "625,000",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "1000-1199 sqft"
+  },
+  {
+    "address": "418-650 Sheppard Avenue E Toronto ON",
+    "price": "1,550",
+    "bed": "1+1 bed",
+    "bath": "1 bath",
+    "area": "600-699 sqft"
+  },
+  {
+    "address": "7305-138 Downes Street Toronto ON",
+    "price": "N/A",
+    "bed": "\u2014 bed",
+    "bath": "\u2014 bath",
+    "area": "\u2014 sqft"
+  },
+  {
+    "address": "408-3865 Lakeshore Boulevard W Toronto ON",
+    "price": "629,000",
+    "bed": "1+1 bed",
+    "bath": "2 bath",
+    "area": "700-799 sqft"
+  },
+  {
+    "address": "173 Lawlor Avenue Toronto ON",
+    "price": "1,449,900",
+    "bed": "4+1 bed",
+    "bath": "2 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "4311-295 Adelaide Street W Toronto ON",
+    "price": "688,000",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "500-599 sqft"
+  },
+  {
+    "address": "6910-55 Cooper Street Toronto ON",
+    "price": "N/A",
+    "bed": "\u2014 bed",
+    "bath": "\u2014 bath",
+    "area": "\u2014 sqft"
+  },
+  {
+    "address": "5407-100 Harbour Street Toronto ON",
+    "price": "699,000",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "0-499 sqft"
+  },
+  {
+    "address": "509-1787 St Clair Avenue W Toronto ON",
+    "price": "649,900",
+    "bed": "1+1 bed",
+    "bath": "1 bath",
+    "area": "600-699 sqft"
+  },
+  {
+    "address": "907-89 Dunfield Avenue Toronto ON",
+    "price": "899,000",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "800-899 sqft"
+  },
+  {
+    "address": "506-38 Forest Manor Road Toronto ON",
+    "price": "899,000",
+    "bed": "3 bed",
+    "bath": "2 bath",
+    "area": "800-899 sqft"
+  },
+  {
+    "address": "1304-125 Peter N/a Toronto ON",
+    "price": "715,000",
+    "bed": "1+1 bed",
+    "bath": "1 bath",
+    "area": "500-599 sqft"
+  },
+  {
+    "address": "1602C-662 Sheppard Avenue E Toronto ON",
+    "price": "2,250,000",
+    "bed": "2+1 bed",
+    "bath": "3 bath",
+    "area": "2250-2499 sqft"
+  },
+  {
+    "address": "418-233 Beecroft Road Toronto ON",
+    "price": "599,900",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "0-499 sqft"
+  },
+  {
+    "address": "2303-32 Forest Manor Road N Toronto ON",
+    "price": "639,000",
+    "bed": "1+1 bed",
+    "bath": "1 bath",
+    "area": "500-599 sqft"
+  },
+  {
+    "address": "PH12-88 Grandview Way Toronto ON",
+    "price": "1,288,000",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "1000-1199 sqft"
+  },
+  {
+    "address": "903-330 Mccowan Rd Road E Toronto ON",
+    "price": "589,000",
+    "bed": "2+1 bed",
+    "bath": "2 bath",
+    "area": "900-999 sqft"
+  },
+  {
+    "address": "3002-30 Roehampton Avenue Toronto ON",
+    "price": "807,000",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "700-799 sqft"
+  },
+  {
+    "address": "3101-21 Balmuto Street Toronto ON",
+    "price": "929,000",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "800-899 sqft"
+  },
+  {
+    "address": "1205-3 Pemberton Avenue Toronto ON",
+    "price": "549,000",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "500-599 sqft"
+  },
+  {
+    "address": "20 Pioneer Pathway Toronto ON",
+    "price": "799,399",
+    "bed": "2+2 bed",
+    "bath": "2 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "621-181 Village Green Square Toronto ON",
+    "price": "628,888",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "700-799 sqft"
+  },
+  {
+    "address": "97 Pale Moon Crescent Toronto ON",
+    "price": "1,098,000",
+    "bed": "3+1 bed",
+    "bath": "4 bath",
+    "area": "1500-2000 sqft"
+  },
+  {
+    "address": "52 Dunsdale Square Toronto ON",
+    "price": "1,168,000",
+    "bed": "5+1 bed",
+    "bath": "5 bath",
+    "area": "2000-2500 sqft"
+  },
+  {
+    "address": "2035 Kennedy Road Toronto ON",
+    "price": "555,600",
+    "bed": "1+1 bed",
+    "bath": "1 bath",
+    "area": "900-999 sqft"
+  },
+  {
+    "address": "5508-197 Yonge Street Toronto ON",
+    "price": "668,800",
+    "bed": "\u2013 bed",
+    "bath": "1 bath",
+    "area": "0-499 sqft"
+  },
+  {
+    "address": "1281 Davenport Road Toronto ON",
+    "price": "1,399,000",
+    "bed": "3 bed",
+    "bath": "2 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "512-438 King Street W Toronto ON",
+    "price": "775,000",
+    "bed": "1+1 bed",
+    "bath": "2 bath",
+    "area": "700-799 sqft"
+  },
+  {
+    "address": "135 Rochester Avenue Toronto ON",
+    "price": "6,950,000",
+    "bed": "4+1 bed",
+    "bath": "6 bath",
+    "area": "3500-5000 sqft"
+  },
+  {
+    "address": "3 Bosworth Avenue Toronto ON",
+    "price": "1,899,888",
+    "bed": "4 bed",
+    "bath": "4 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "501-18 Lee Centre Drive Toronto ON",
+    "price": "499,900",
+    "bed": "1+1 bed",
+    "bath": "1 bath",
+    "area": "600-699 sqft"
+  },
+  {
+    "address": "1810-10 Torresdale Avenue Toronto ON",
+    "price": "739,000",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "1000-1199 sqft"
+  },
+  {
+    "address": "342-20 Inn On The Park Drive Toronto ON",
+    "price": "1,526,000",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "1400-1599 sqft"
+  },
+  {
+    "address": "69 Harringay Crescent Toronto ON",
+    "price": "1,428,000",
+    "bed": "3+1 bed",
+    "bath": "3 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "810-30 Tretti Way Toronto ON",
+    "price": "N/A",
+    "bed": "\u2014 bed",
+    "bath": "\u2014 bath",
+    "area": "\u2014 sqft"
+  },
+  {
+    "address": "313-50 Bruyeres Mews Toronto ON",
+    "price": "788,800",
+    "bed": "1+1 bed",
+    "bath": "1 bath",
+    "area": "800-899 sqft"
+  },
+  {
+    "address": "311-2443 Dufferin Street Toronto ON",
+    "price": "729,999",
+    "bed": "3 bed",
+    "bath": "2 bath",
+    "area": "900-999 sqft"
+  },
+  {
+    "address": "185 Seaton Street Toronto ON",
+    "price": "1,528,888",
+    "bed": "3+1 bed",
+    "bath": "3 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "681 Dovercourt Road Toronto ON",
+    "price": "2,499,000",
+    "bed": "7+1 bed",
+    "bath": "4 bath",
+    "area": "3500-5000 sqft"
+  },
+  {
+    "address": "525-99 The Donway West N/a Toronto ON",
+    "price": "689,900",
+    "bed": "1+1 bed",
+    "bath": "2 bath",
+    "area": "600-699 sqft"
+  },
+  {
+    "address": "605-30 Gibbs Road Toronto ON",
+    "price": "749,900",
+    "bed": "2+1 bed",
+    "bath": "2 bath",
+    "area": "900-999 sqft"
+  },
+  {
+    "address": "105-270 Scarlett Road Toronto ON",
+    "price": "629,000",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "800-899 sqft"
+  },
+  {
+    "address": "703W-27 Bathurst Street Toronto ON",
+    "price": "680,000",
+    "bed": "1+1 bed",
+    "bath": "1 bath",
+    "area": "600-699 sqft"
+  },
+  {
+    "address": "613-150 Sudbury Street Toronto ON",
+    "price": "599,000",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "500 sqft"
+  },
+  {
+    "address": "3612-19 Grand Trunk Crescent Toronto ON",
+    "price": "698,888",
+    "bed": "1+1 bed",
+    "bath": "1 bath",
+    "area": "600-699 sqft"
+  },
+  {
+    "address": "1104-45 Silver Springs Boulevard Toronto ON",
+    "price": "635,800",
+    "bed": "2+1 bed",
+    "bath": "2 bath",
+    "area": "1000-1199 sqft"
+  },
+  {
+    "address": "5-5 St. Joseph Street Toronto ON",
+    "price": "82,000",
+    "bed": "\u2013 bed",
+    "bath": "\u2013 bath",
+    "area": "0-499 sqft"
+  },
+  {
+    "address": "29 Marowyne Drive Toronto ON",
+    "price": "1,411,000",
+    "bed": "4+1 bed",
+    "bath": "3 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "409-8 Silverbell Grove Toronto ON",
+    "price": "599,000",
+    "bed": "3+1 bed",
+    "bath": "2 bath",
+    "area": "1200-1399 sqft"
+  },
+  {
+    "address": "2801-153 Beecroft Road Toronto ON",
+    "price": "799,000",
+    "bed": "2+1 bed",
+    "bath": "2 bath",
+    "area": "800-899 sqft"
+  },
+  {
+    "address": "520-3650 Kingston Road Toronto ON",
+    "price": "415,000",
+    "bed": "\u2013 bed",
+    "bath": "1 bath",
+    "area": "0-499 sqft"
+  },
+  {
+    "address": "707-75 Queens Wharf Road Toronto ON",
+    "price": "769,999",
+    "bed": "1+1 bed",
+    "bath": "1 bath",
+    "area": "700-799 sqft"
+  },
+  {
+    "address": "2515-5168 Yonge Street Toronto ON",
+    "price": "998,000",
+    "bed": "2+1 bed",
+    "bath": "3 bath",
+    "area": "1000-1199 sqft"
+  },
+  {
+    "address": "2707-5 Massey Square Toronto ON",
+    "price": "339,000",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "700-799 sqft"
+  },
+  {
+    "address": "1808-77 Shuter Street Toronto ON",
+    "price": "598,900",
+    "bed": "1+1 bed",
+    "bath": "1 bath",
+    "area": "500-599 sqft"
+  },
+  {
+    "address": "84 Rosethorn Avenue Toronto ON",
+    "price": "899,000",
+    "bed": "2+1 bed",
+    "bath": "3 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "68 Merton Street Toronto ON",
+    "price": "618,000",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "533 sqft"
+  },
+  {
+    "address": "46-2012 Martin Grove Road N Toronto ON",
+    "price": "699,900",
+    "bed": "3 bed",
+    "bath": "2 bath",
+    "area": "1200-1399 sqft"
+  },
+  {
+    "address": "63 Darby Court Toronto ON",
+    "price": "1,499,999",
+    "bed": "5+2 bed",
+    "bath": "4 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "TH49-40 Ed Clark Gardens Toronto ON",
+    "price": "925,000",
+    "bed": "3 bed",
+    "bath": "2 bath",
+    "area": "1000-1199 sqft"
+  },
+  {
+    "address": "2010-955 Bay Street Toronto ON",
+    "price": "729,900",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "0-499 sqft"
+  },
+  {
+    "address": "3002-825 Church Street Toronto ON",
+    "price": "999,000",
+    "bed": "2+1 bed",
+    "bath": "2 bath",
+    "area": "800-899 sqft"
+  },
+  {
+    "address": "1706-15 Holmes Avenue Toronto ON",
+    "price": "585,000",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "0-499 sqft"
+  },
+  {
+    "address": "1607-8 Telegram Mews Toronto ON",
+    "price": "879,900",
+    "bed": "2+1 bed",
+    "bath": "2 bath",
+    "area": "900-999 sqft"
+  },
+  {
+    "address": "814-6 Humberline Drive Toronto ON",
+    "price": "705,000",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "1000-1199 sqft"
+  },
+  {
+    "address": "TH101-95 Mcmahon Drive Toronto ON",
+    "price": "1,099,000",
+    "bed": "3 bed",
+    "bath": "3 bath",
+    "area": "1400-1599 sqft"
+  },
+  {
+    "address": "811-1346 Danforth Road Toronto ON",
+    "price": "597,777",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "700-799 sqft"
+  },
+  {
+    "address": "723-251 Manitoba Street Toronto ON",
+    "price": "615,000",
+    "bed": "1+1 bed",
+    "bath": "1 bath",
+    "area": "500-599 sqft"
+  },
+  {
+    "address": "710-17 Anndale Drive Toronto ON",
+    "price": "856,000",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "800-899 sqft"
+  },
+  {
+    "address": "481 Guildwood Parkway Toronto ON",
+    "price": "3,880,000",
+    "bed": "4+2 bed",
+    "bath": "6 bath",
+    "area": "3500-5000 sqft"
+  },
+  {
+    "address": "1201-15 Windermere Avenue Toronto ON",
+    "price": "589,888",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "600-699 sqft"
+  },
+  {
+    "address": "806-350 Alton Towers Circle Toronto ON",
+    "price": "550,000",
+    "bed": "2+1 bed",
+    "bath": "2 bath",
+    "area": "1000-1199 sqft"
+  },
+  {
+    "address": "903-17 Bathurst Street Toronto ON",
+    "price": "399,000",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "0-499 sqft"
+  },
+  {
+    "address": "A-3036 Bayview Avenue Toronto ON",
+    "price": "1,949,000",
+    "bed": "4+1 bed",
+    "bath": "9 bath",
+    "area": "3500-5000 sqft"
+  },
+  {
+    "address": "#505-5949 Yonge Street Toronto ON",
+    "price": "429,000",
+    "bed": "2 bed",
+    "bath": "1 bath",
+    "area": "1000-1199 sqft"
+  },
+  {
+    "address": "1301-11 Wellesley Street W Toronto ON",
+    "price": "669,900",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "0-499 sqft"
+  },
+  {
+    "address": "807-5500 Yonge Street Toronto ON",
+    "price": "568,888",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "500-599 sqft"
+  },
+  {
+    "address": "1509-77 Harbour Square Toronto ON",
+    "price": "829,000",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "700-799 sqft"
+  },
+  {
+    "address": "35 Castle Hill Drive Toronto ON",
+    "price": "1,836,000",
+    "bed": "4+3 bed",
+    "bath": "5 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "513-68 Merton Street Toronto ON",
+    "price": "618,000",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "500-599 sqft"
+  },
+  {
+    "address": "134-847 Sheppard Avenue W Toronto ON",
+    "price": "1,280,000",
+    "bed": "3+1 bed",
+    "bath": "3 bath",
+    "area": "1600-1799 sqft"
+  },
+  {
+    "address": "906-18 Hillcrest Avenue Toronto ON",
+    "price": "588,000",
+    "bed": "1+1 bed",
+    "bath": "1 bath",
+    "area": "700-799 sqft"
+  },
+  {
+    "address": "518 Prince Edward Drive N Toronto ON",
+    "price": "2,699,000",
+    "bed": "3 bed",
+    "bath": "4 bath",
+    "area": "1500-2000 sqft"
+  },
+  {
+    "address": "25 Berryman Street Toronto ON",
+    "price": "3,990,000",
+    "bed": "4+1 bed",
+    "bath": "4 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "1110-5793 Yonge Street Toronto ON",
+    "price": "550,000",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "500-599 sqft"
+  },
+  {
+    "address": "214-1346 Danforth Road Toronto ON",
+    "price": "599,999",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "700-799 sqft"
+  },
+  {
+    "address": "3309-1 Bloor Street E Toronto ON",
+    "price": "990,000",
+    "bed": "1+1 bed",
+    "bath": "2 bath",
+    "area": "700-799 sqft"
+  },
+  {
+    "address": "1408-80 Marine Parade Drive Toronto ON",
+    "price": "N/A",
+    "bed": "\u2014 bed",
+    "bath": "\u2014 bath",
+    "area": "\u2014 sqft"
+  },
+  {
+    "address": "417-352 Front Street W Toronto ON",
+    "price": "849,999",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "800-899 sqft"
+  },
+  {
+    "address": "121 Perry Crescent Toronto ON",
+    "price": "N/A",
+    "bed": "\u2014 bed",
+    "bath": "\u2014 bath",
+    "area": "\u2014 sqft"
+  },
+  {
+    "address": "3515-199 Church Street Toronto ON",
+    "price": "710,000",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "0-499 sqft"
+  },
+  {
+    "address": "1902-88 Grangeway Avenue Toronto ON",
+    "price": "549,800",
+    "bed": "2 bed",
+    "bath": "1 bath",
+    "area": "700-799 sqft"
+  },
+  {
+    "address": "3702-403 Church Street Toronto ON",
+    "price": "1,150,000",
+    "bed": "3 bed",
+    "bath": "2 bath",
+    "area": "900-999 sqft"
+  },
+  {
+    "address": "11 Neddie Drive Toronto ON",
+    "price": "899,000",
+    "bed": "3+2 bed",
+    "bath": "3 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "705-1038 Mcnicoll Avenue Toronto ON",
+    "price": "899,000",
+    "bed": "2+1 bed",
+    "bath": "2 bath",
+    "area": "1200-1399 sqft"
+  },
+  {
+    "address": "2505-50 Ordnance Street Toronto ON",
+    "price": "N/A",
+    "bed": "\u2014 bed",
+    "bath": "\u2014 bath",
+    "area": "\u2014 sqft"
+  },
+  {
+    "address": "6305-10 York Street Toronto ON",
+    "price": "2,368,888",
+    "bed": "2+1 bed",
+    "bath": "3 bath",
+    "area": "1600-1799 sqft"
+  },
+  {
+    "address": "23 Christine Crescent Toronto ON",
+    "price": "1,800,000",
+    "bed": "4 bed",
+    "bath": "4 bath",
+    "area": "2500-3000 sqft"
+  },
+  {
+    "address": "415-1401 O'connor Drive Toronto ON",
+    "price": "599,000",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "600-699 sqft"
+  },
+  {
+    "address": "152 Eastwood Road Toronto ON",
+    "price": "1,099,000",
+    "bed": "3 bed",
+    "bath": "1 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "708-2369 Danforth Avenue Toronto ON",
+    "price": "749,900",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "700-799 sqft"
+  },
+  {
+    "address": "614-33 Frederick Todd Way Toronto ON",
+    "price": "759,000",
+    "bed": "1+1 bed",
+    "bath": "1 bath",
+    "area": "600-699 sqft"
+  },
+  {
+    "address": "510-183 Dovercourt Road Toronto ON",
+    "price": "735,000",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "500-599 sqft"
+  },
+  {
+    "address": "304-15 Torrance Road Toronto ON",
+    "price": "465,101",
+    "bed": "2 bed",
+    "bath": "1 bath",
+    "area": "800-899 sqft"
+  },
+  {
+    "address": "909-14 York Street Toronto ON",
+    "price": "578,000",
+    "bed": "1+1 bed",
+    "bath": "1 bath",
+    "area": "500-599 sqft"
+  },
+  {
+    "address": "523-52 Forest Manor Road Toronto ON",
+    "price": "599,000",
+    "bed": "1+1 bed",
+    "bath": "2 bath",
+    "area": "600-699 sqft"
+  },
+  {
+    "address": "837-68 Abell Street Toronto ON",
+    "price": "670,000",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "600-699 sqft"
+  },
+  {
+    "address": "27 Wellpark Boulevard Toronto ON",
+    "price": "1,195,000",
+    "bed": "3+2 bed",
+    "bath": "3 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "3605-77 Harbour Square Toronto ON",
+    "price": "N/A",
+    "bed": "\u2014 bed",
+    "bath": "\u2014 bath",
+    "area": "\u2014 sqft"
+  },
+  {
+    "address": "35 Elvaston Drive Toronto ON",
+    "price": "1,624,888",
+    "bed": "5+2 bed",
+    "bath": "3 bath",
+    "area": "1500-2000 sqft"
+  },
+  {
+    "address": "626-5 Defries Street Toronto ON",
+    "price": "580,000",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "500-599 sqft"
+  },
+  {
+    "address": "94 Pegasus Trail Toronto ON",
+    "price": "1,025,000",
+    "bed": "3 bed",
+    "bath": "1 bath",
+    "area": "1100-1500 sqft"
+  },
+  {
+    "address": "9 Snowy Owl Way Toronto ON",
+    "price": "1,199,000",
+    "bed": "4+1 bed",
+    "bath": "4 bath",
+    "area": "2500-3000 sqft"
+  },
+  {
+    "address": "1336 Kingston Road Toronto ON",
+    "price": "12,950,000",
+    "bed": "\u2013 bed",
+    "bath": "37 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "518-200 Manitoba Street Toronto ON",
+    "price": "899,000",
+    "bed": "2+1 bed",
+    "bath": "2 bath",
+    "area": "1200-1399 sqft"
+  },
+  {
+    "address": "508-3121 Sheppard Avenue E Toronto ON",
+    "price": "639,999",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "800-899 sqft"
+  },
+  {
+    "address": "507-1105 Leslie Street Toronto ON",
+    "price": "585,000",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "600-699 sqft"
+  },
+  {
+    "address": "2014 Lawrence Avenue Toronto ON",
+    "price": "N/A",
+    "bed": "\u2014 bed",
+    "bath": "\u2014 bath",
+    "area": "\u2014 sqft"
+  },
+  {
+    "address": "205 Prince Edward Drive S Toronto ON",
+    "price": "2,387,000",
+    "bed": "3+2 bed",
+    "bath": "2 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "3105-290 Adelaide Street W Toronto ON",
+    "price": "N/A",
+    "bed": "\u2014 bed",
+    "bath": "\u2014 bath",
+    "area": "\u2014 sqft"
+  },
+  {
+    "address": "1601-710 Humberwood Boulevard Toronto ON",
+    "price": "559,999",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "600-699 sqft"
+  },
+  {
+    "address": "203-3650 Kingston Road Toronto ON",
+    "price": "535,000",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "700-799 sqft"
+  },
+  {
+    "address": "909-89 Dunfield Avenue Toronto ON",
+    "price": "618,000",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "500-599 sqft"
+  },
+  {
+    "address": "1901-627 The West Mall N/a Toronto ON",
+    "price": "654,900",
+    "bed": "3+1 bed",
+    "bath": "2 bath",
+    "area": "1400-1599 sqft"
+  },
+  {
+    "address": "210-20 Dean Park Road Toronto ON",
+    "price": "799,900",
+    "bed": "2+1 bed",
+    "bath": "2 bath",
+    "area": "1600-1799 sqft"
+  },
+  {
+    "address": "140 Springhurst Avenue Toronto ON",
+    "price": "9,450,000",
+    "bed": "\u2013 bed",
+    "bath": "21 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "19 Galbraith Avenue Toronto ON",
+    "price": "1,299,800",
+    "bed": "4+2 bed",
+    "bath": "4 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "1518-158 Front Street E Toronto ON",
+    "price": "699,000",
+    "bed": "2 bed",
+    "bath": "1 bath",
+    "area": "600-699 sqft"
+  },
+  {
+    "address": "1507-220 Victoria Street Toronto ON",
+    "price": "899,000",
+    "bed": "2+1 bed",
+    "bath": "2 bath",
+    "area": "1000-1199 sqft"
+  },
+  {
+    "address": "308-1030 King Street W Toronto ON",
+    "price": "614,999",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "0-499 sqft"
+  },
+  {
+    "address": "605-105 The Queensway Avenue W Toronto ON",
+    "price": "599,000",
+    "bed": "1+1 bed",
+    "bath": "2 bath",
+    "area": "600-699 sqft"
+  },
+  {
+    "address": "4-200 Clinton Street Toronto ON",
+    "price": "2,200,000",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "1600-1799 sqft"
+  },
+  {
+    "address": "1006-30 Tretti Way Toronto ON",
+    "price": "749,900",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "600-699 sqft"
+  },
+  {
+    "address": "616-138 Princess Street Toronto ON",
+    "price": "899,900",
+    "bed": "2 bed",
+    "bath": "1 bath",
+    "area": "800-899 sqft"
+  },
+  {
+    "address": "7105-1 Bloor Street E Toronto ON",
+    "price": "3,108,000",
+    "bed": "2+1 bed",
+    "bath": "3 bath",
+    "area": "1600-1799 sqft"
+  },
+  {
+    "address": "401-51 Harrison Garden Boulevard Toronto ON",
+    "price": "649,000",
+    "bed": "1+1 bed",
+    "bath": "1 bath",
+    "area": "600-699 sqft"
+  },
+  {
+    "address": "1310-55 Ontario Street Toronto ON",
+    "price": "595,000",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "0-499 sqft"
+  },
+  {
+    "address": "56 Torbrick Road Toronto ON",
+    "price": "1,199,000",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "16 Elmdon Court Toronto ON",
+    "price": "999,000",
+    "bed": "3+3 bed",
+    "bath": "2 bath",
+    "area": "1500-2000 sqft"
+  },
+  {
+    "address": "376 George Street Toronto ON",
+    "price": "2,499,000",
+    "bed": "4+1 bed",
+    "bath": "5 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "2434-5 Mabelle Avenue Toronto ON",
+    "price": "588,888",
+    "bed": "1+1 bed",
+    "bath": "1 bath",
+    "area": "500-599 sqft"
+  },
+  {
+    "address": "945-8 Hillsdale Avenue E Toronto ON",
+    "price": "499,800",
+    "bed": "\u2013 bed",
+    "bath": "1 bath",
+    "area": "0-499 sqft"
+  },
+  {
+    "address": "105 Sellers Avenue Toronto ON",
+    "price": "1,359,900",
+    "bed": "4+1 bed",
+    "bath": "2 bath",
+    "area": "51-99 Years Old"
+  },
+  {
+    "address": "88 Manderley Drive Toronto ON",
+    "price": "799,000",
+    "bed": "1+1 bed",
+    "bath": "2 bath",
+    "area": "51-99 Years Old"
+  },
+  {
+    "address": "362 The East Mall Toronto ON",
+    "price": "589,000",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "900 sqft"
+  },
+  {
+    "address": "362 The East Mall Toronto ON",
+    "price": "589,000",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "900 sqft"
+  },
+  {
+    "address": "306-10 Queens Quay W Toronto ON",
+    "price": "N/A",
+    "bed": "\u2014 bed",
+    "bath": "\u2014 bath",
+    "area": "\u2014 sqft"
+  },
+  {
+    "address": "222 Westwood Avenue Toronto ON",
+    "price": "1,499,000",
+    "bed": "4+1 bed",
+    "bath": "3 bath",
+    "area": "51-99 Years Old"
+  },
+  {
+    "address": "715-15 Brunel Court Toronto ON",
+    "price": "668,000",
+    "bed": "1+1 bed",
+    "bath": "1 bath",
+    "area": "600-699 sqft"
+  },
+  {
+    "address": "257 Chisholm Avenue Toronto ON",
+    "price": "699,000",
+    "bed": "2 bed",
+    "bath": "1 bath",
+    "area": "700-1100 sqft"
+  },
+  {
+    "address": "719-1001 Bay Street Toronto ON",
+    "price": "675,000",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "700-799 sqft"
+  },
+  {
+    "address": "38 Mason Boulevard Toronto ON",
+    "price": "5,990,000",
+    "bed": "4+1 bed",
+    "bath": "7 bath",
+    "area": "0-5 Years Old"
+  },
+  {
+    "address": "83 Harlandale Avenue Toronto ON",
+    "price": "2,320,000",
+    "bed": "4+1 bed",
+    "bath": "5 bath",
+    "area": "2500-3000 sqft"
+  },
+  {
+    "address": "3603-80 John Street Toronto ON",
+    "price": "798,000",
+    "bed": "1+1 bed",
+    "bath": "1 bath",
+    "area": "600-699 sqft"
+  },
+  {
+    "address": "35 Thurston Road Toronto ON",
+    "price": "1,699,000",
+    "bed": "3+1 bed",
+    "bath": "2 bath",
+    "area": "1100-1500 sqft"
+  },
+  {
+    "address": "491 Manning Avenue Toronto ON",
+    "price": "1,398,000",
+    "bed": "4 bed",
+    "bath": "3 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "34 Munson Crescent Toronto ON",
+    "price": "995,888",
+    "bed": "4 bed",
+    "bath": "3 bath",
+    "area": "1100-1500 sqft"
+  },
+  {
+    "address": "61 Hawksbury Drive Toronto ON",
+    "price": "4,180,000",
+    "bed": "4+1 bed",
+    "bath": "6 bath",
+    "area": "3500-5000 sqft"
+  },
+  {
+    "address": "509-2212 Lake Shore Boulevard W Toronto ON",
+    "price": "618,888",
+    "bed": "1+1 bed",
+    "bath": "1 bath",
+    "area": "600-699 sqft"
+  },
+  {
+    "address": "208-1105 Leslie Street Toronto ON",
+    "price": "648,000",
+    "bed": "1 bed",
+    "bath": "2 bath",
+    "area": "700-799 sqft"
+  },
+  {
+    "address": "1013-20 Edward Street Toronto ON",
+    "price": "798,000",
+    "bed": "1+1 bed",
+    "bath": "1 bath",
+    "area": "500-599 sqft"
+  },
+  {
+    "address": "5503-395 Bloor Street E Toronto ON",
+    "price": "1,499,000",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "800-899 sqft"
+  },
+  {
+    "address": "4 Birchlawn Avenue Toronto ON",
+    "price": "3,299,000",
+    "bed": "4+2 bed",
+    "bath": "6 bath",
+    "area": "New"
+  },
+  {
+    "address": "203-2201 Kingston Road Toronto ON",
+    "price": "628,800",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "600-699 sqft"
+  },
+  {
+    "address": "304-170 Sumach Street Toronto ON",
+    "price": "577,000",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "500-599 sqft"
+  },
+  {
+    "address": "21 Jackson Avenue Toronto ON",
+    "price": "2,850,000",
+    "bed": "3 bed",
+    "bath": "4 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "160 Ardwick Boulevard Toronto ON",
+    "price": "979,900",
+    "bed": "3 bed",
+    "bath": "2 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "40 Sixth Street Toronto ON",
+    "price": "2,999,998",
+    "bed": "4+1 bed",
+    "bath": "5 bath",
+    "area": "3500-5000 sqft"
+  },
+  {
+    "address": "47 Beckett Avenue Toronto ON",
+    "price": "2,099,000",
+    "bed": "4+2 bed",
+    "bath": "6 bath",
+    "area": "3000-3500 sqft"
+  },
+  {
+    "address": "1905-50 Lombard Street Toronto ON",
+    "price": "599,000",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "700-799 sqft"
+  },
+  {
+    "address": "2109-28 Freeland Street S Toronto ON",
+    "price": "1,398,000",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "900-999 sqft"
+  },
+  {
+    "address": "26 Larchwood Road Toronto ON",
+    "price": "1,049,000",
+    "bed": "4+1 bed",
+    "bath": "2 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "85 Hiltz Avenue Toronto ON",
+    "price": "1,288,000",
+    "bed": "3 bed",
+    "bath": "3 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "55 Thornbeck Drive Toronto ON",
+    "price": "1,100,000",
+    "bed": "3+1 bed",
+    "bath": "2 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "904-500 Sherbourne Street Toronto ON",
+    "price": "799,000",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "800-899 sqft"
+  },
+  {
+    "address": "3513-195 Redpath Avenue Toronto ON",
+    "price": "N/A",
+    "bed": "\u2014 bed",
+    "bath": "\u2014 bath",
+    "area": "\u2014 sqft"
+  },
+  {
+    "address": "14 Veerland Drive Toronto ON",
+    "price": "1,495,000",
+    "bed": "3 bed",
+    "bath": "2 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "1908-2000 Islington Avenue Toronto ON",
+    "price": "888,000",
+    "bed": "2+1 bed",
+    "bath": "2 bath",
+    "area": "1800-1999 sqft"
+  },
+  {
+    "address": "71 Hounslow Heath Road S Toronto ON",
+    "price": "1,599,999",
+    "bed": "3+1 bed",
+    "bath": "3 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "37 Eastglen Crescent Toronto ON",
+    "price": "3,299,999",
+    "bed": "4+1 bed",
+    "bath": "5 bath",
+    "area": "3000-3500 sqft"
+  },
+  {
+    "address": "16 Cavell Avenue Toronto ON",
+    "price": "1,549,900",
+    "bed": "3 bed",
+    "bath": "2 bath",
+    "area": "1100-1500 sqft"
+  },
+  {
+    "address": "119 Deanscroft Square Toronto ON",
+    "price": "999,000",
+    "bed": "4+2 bed",
+    "bath": "3 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "906-65 Annie Craig Drive Toronto ON",
+    "price": "799,000",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "700-799 sqft"
+  },
+  {
+    "address": "902-68 Canterbury Place Toronto ON",
+    "price": "859,800",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "800-899 sqft"
+  },
+  {
+    "address": "615-501 St Clair Avenue W Toronto ON",
+    "price": "699,000",
+    "bed": "1+1 bed",
+    "bath": "1 bath",
+    "area": "600-699 sqft"
+  },
+  {
+    "address": "1003-409 Bloor Street E Toronto ON",
+    "price": "499,990",
+    "bed": "2 bed",
+    "bath": "1 bath",
+    "area": "600-699 sqft"
+  },
+  {
+    "address": "711-2727 Yonge Street Toronto ON",
+    "price": "1,799,000",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "1800-1999 sqft"
+  },
+  {
+    "address": "89 Clearbrooke Circle Toronto ON",
+    "price": "1,149,000",
+    "bed": "3+3 bed",
+    "bath": "2 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "1076-100 Mornelle Court Toronto ON",
+    "price": "650,000",
+    "bed": "3+1 bed",
+    "bath": "2 bath",
+    "area": "1200-1399 sqft"
+  },
+  {
+    "address": "705-12 Rean Drive Toronto ON",
+    "price": "895,000",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "1200-1399 sqft"
+  },
+  {
+    "address": "2004-15 Lower Jarvis Street Toronto ON",
+    "price": "669,998",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "500-599 sqft"
+  },
+  {
+    "address": "410-650 King Street W Toronto ON",
+    "price": "845,000",
+    "bed": "2 bed",
+    "bath": "1 bath",
+    "area": "800-899 sqft"
+  },
+  {
+    "address": "3011-19 Bathurst Street Toronto ON",
+    "price": "899,000",
+    "bed": "3 bed",
+    "bath": "2 bath",
+    "area": "1000-1199 sqft"
+  },
+  {
+    "address": "98 Euclid Avenue Toronto ON",
+    "price": "1,999,000",
+    "bed": "\u2013 bed",
+    "bath": "\u2013 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "541-26 Gibbs Road Toronto ON",
+    "price": "N/A",
+    "bed": "\u2014 bed",
+    "bath": "\u2014 bath",
+    "area": "\u2014 sqft"
+  },
+  {
+    "address": "59-12 Burdock Lane Toronto ON",
+    "price": "865,000",
+    "bed": "3 bed",
+    "bath": "2 bath",
+    "area": "1000-1199 sqft"
+  },
+  {
+    "address": "2103-38 Lee Centre Drive Toronto ON",
+    "price": "599,999",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "800-899 sqft"
+  },
+  {
+    "address": "507-1950 Kennedy Road Toronto ON",
+    "price": "499,000",
+    "bed": "2 bed",
+    "bath": "1 bath",
+    "area": "900-999 sqft"
+  },
+  {
+    "address": "306-205 Frederick Street Toronto ON",
+    "price": "N/A",
+    "bed": "\u2014 bed",
+    "bath": "\u2014 bath",
+    "area": "\u2014 sqft"
+  },
+  {
+    "address": "4404-300 Front Street W Toronto ON",
+    "price": "2,125,000",
+    "bed": "2+1 bed",
+    "bath": "3 bath",
+    "area": "1800-1999 sqft"
+  },
+  {
+    "address": "PH18-3800 Yonge Street Toronto ON",
+    "price": "3,150,000",
+    "bed": "2+1 bed",
+    "bath": "4 bath",
+    "area": "2500-2749 sqft"
+  },
+  {
+    "address": "19 Clarendon Avenue Toronto ON",
+    "price": "3,749,000",
+    "bed": "3 bed",
+    "bath": "4 bath",
+    "area": "2500-3000 sqft"
+  },
+  {
+    "address": "808-15 Zorra Street Toronto ON",
+    "price": "610,000",
+    "bed": "1+1 bed",
+    "bath": "2 bath",
+    "area": "600-699 sqft"
+  },
+  {
+    "address": "TH7-1331 Queen Street E Toronto ON",
+    "price": "1,800,000",
+    "bed": "3 bed",
+    "bath": "3 bath",
+    "area": "2000-2249 sqft"
+  },
+  {
+    "address": "923-2799 Kingston Road Toronto ON",
+    "price": "999,000",
+    "bed": "3 bed",
+    "bath": "3 bath",
+    "area": "1200-1399 sqft"
+  },
+  {
+    "address": "6L-8 Rosebank Drive Toronto ON",
+    "price": "629,000",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "800-899 sqft"
+  },
+  {
+    "address": "3611-85 Wood Street Toronto ON",
+    "price": "749,000",
+    "bed": "1+1 bed",
+    "bath": "1 bath",
+    "area": "500-599 sqft"
+  },
+  {
+    "address": "1206-3237 Bayview Avenue Toronto ON",
+    "price": "638,888",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "600-699 sqft"
+  },
+  {
+    "address": "2901-117 Mcmahon Drive Toronto ON",
+    "price": "545,000",
+    "bed": "\u2013 bed",
+    "bath": "1 bath",
+    "area": "0-499 sqft"
+  },
+  {
+    "address": "1306-170 Fort York Boulevard Toronto ON",
+    "price": "550,000",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "0-499 sqft"
+  },
+  {
+    "address": "17 Monarch Park Avenue Toronto ON",
+    "price": "1,099,900",
+    "bed": "5 bed",
+    "bath": "2 bath",
+    "area": "1800 sqft"
+  },
+  {
+    "address": "LPH02-1 Michael Power Place Toronto ON",
+    "price": "698,000",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "800-899 sqft"
+  },
+  {
+    "address": "722-10 Guildwood Parkway Toronto ON",
+    "price": "919,000",
+    "bed": "2+1 bed",
+    "bath": "2 bath",
+    "area": "1600-1799 sqft"
+  },
+  {
+    "address": "316-36 Lisgar Street Toronto ON",
+    "price": "725,000",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "800-899 sqft"
+  },
+  {
+    "address": "31 Scarboro Avenue Toronto ON",
+    "price": "N/A",
+    "bed": "\u2014 bed",
+    "bath": "\u2014 bath",
+    "area": "\u2014 sqft"
+  },
+  {
+    "address": "TH108-2289 Lake Shore Boulevard W Toronto ON",
+    "price": "2,100,000",
+    "bed": "2+1 bed",
+    "bath": "3 bath",
+    "area": "2500-2749 sqft"
+  },
+  {
+    "address": "237-22 Southport Street Toronto ON",
+    "price": "699,000",
+    "bed": "2+1 bed",
+    "bath": "2 bath",
+    "area": "1000-1199 sqft"
+  },
+  {
+    "address": "PH5-130 Carlton Street Toronto ON",
+    "price": "2,250,000",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "2250-2499 sqft"
+  },
+  {
+    "address": "629-85 East Liberty Street Toronto ON",
+    "price": "634,900",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "500-599 sqft"
+  },
+  {
+    "address": "501-1320 Islington Avenue Toronto ON",
+    "price": "815,000",
+    "bed": "2+1 bed",
+    "bath": "2 bath",
+    "area": "1200-1399 sqft"
+  },
+  {
+    "address": "631-26 Gibbs Road Toronto ON",
+    "price": "595,000",
+    "bed": "1+1 bed",
+    "bath": "1 bath",
+    "area": "700-799 sqft"
+  },
+  {
+    "address": "C116-65 St. Mary Street Toronto ON",
+    "price": "80,000",
+    "bed": "\u2013 bed",
+    "bath": "\u2013 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "59 Homewood Avenue Toronto ON",
+    "price": "1,999,999",
+    "bed": "6+2 bed",
+    "bath": "3 bath",
+    "area": "2500-3000 sqft"
+  },
+  {
+    "address": "43 Harcourt Avenue Toronto ON",
+    "price": "1,888,888",
+    "bed": "3+3 bed",
+    "bath": "5 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "301-2615 Keele Street Toronto ON",
+    "price": "509,000",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "700-799 sqft"
+  },
+  {
+    "address": "809-365 Church Street Toronto ON",
+    "price": "698,600",
+    "bed": "1+1 bed",
+    "bath": "1 bath",
+    "area": "500-599 sqft"
+  },
+  {
+    "address": "26 Tarmola Park Court Toronto ON",
+    "price": "1,199,888",
+    "bed": "3 bed",
+    "bath": "3 bath",
+    "area": "2000-2500 sqft"
+  },
+  {
+    "address": "22 Woodrow Avenue Toronto ON",
+    "price": "1,499,000",
+    "bed": "3 bed",
+    "bath": "3 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "705-18 Merton Street Toronto ON",
+    "price": "949,000",
+    "bed": "2 bed",
+    "bath": "3 bath",
+    "area": "1000-1199 sqft"
+  },
+  {
+    "address": "1101-24 Wellesley Street W Toronto ON",
+    "price": "799,000",
+    "bed": "2+1 bed",
+    "bath": "2 bath",
+    "area": "1000-1199 sqft"
+  },
+  {
+    "address": "47 Frederick Tisdale Drive Toronto ON",
+    "price": "1,098,000",
+    "bed": "5 bed",
+    "bath": "5 bath",
+    "area": "3000-3500 sqft"
+  },
+  {
+    "address": "6 Paulander Avenue Toronto ON",
+    "price": "950,000",
+    "bed": "3 bed",
+    "bath": "2 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "313-20 Orchid Place Drive Toronto ON",
+    "price": "525,000",
+    "bed": "1+1 bed",
+    "bath": "1 bath",
+    "area": "600-699 sqft"
+  },
+  {
+    "address": "110-621 Sheppard Avenue E Toronto ON",
+    "price": "529,000",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "500-599 sqft"
+  },
+  {
+    "address": "2102-170 Fort York Boulevard Toronto ON",
+    "price": "799,000",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "800-899 sqft"
+  },
+  {
+    "address": "624-20 Edward Street Toronto ON",
+    "price": "708,000",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "0-499 sqft"
+  },
+  {
+    "address": "31 Delsing Drive Toronto ON",
+    "price": "1,050,000",
+    "bed": "3+2 bed",
+    "bath": "2 bath",
+    "area": "1100-1500 sqft"
+  },
+  {
+    "address": "122 Rangoon Road Toronto ON",
+    "price": "999,000",
+    "bed": "3+1 bed",
+    "bath": "2 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "74 Acton Avenue Toronto ON",
+    "price": "1,480,000",
+    "bed": "2+1 bed",
+    "bath": "2 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "32 Warbeck Place Toronto ON",
+    "price": "2,128,800",
+    "bed": "4+2 bed",
+    "bath": "4 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "497 Ontario Street Toronto ON",
+    "price": "1,950,000",
+    "bed": "2+1 bed",
+    "bath": "4 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "23 Wilkes Crescent Toronto ON",
+    "price": "989,999",
+    "bed": "3+1 bed",
+    "bath": "4 bath",
+    "area": "1500-2000 sqft"
+  },
+  {
+    "address": "2029 W-135 Lower Sherbourne Street Toronto ON",
+    "price": "N/A",
+    "bed": "\u2014 bed",
+    "bath": "\u2014 bath",
+    "area": "\u2014 sqft"
+  },
+  {
+    "address": "280 Westlake Avenue Toronto ON",
+    "price": "2,080,000",
+    "bed": "4+1 bed",
+    "bath": "5 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "43 Glengowan Road Toronto ON",
+    "price": "N/A",
+    "bed": "\u2014 bed",
+    "bath": "\u2014 bath",
+    "area": "\u2014 sqft"
+  },
+  {
+    "address": "205 Alfred Avenue Toronto ON",
+    "price": "2,488,000",
+    "bed": "4+2 bed",
+    "bath": "6 bath",
+    "area": "3500-5000 sqft"
+  },
+  {
+    "address": "38 Joe Shuster Way Toronto ON",
+    "price": "619,900",
+    "bed": "2 bed",
+    "bath": "1 bath",
+    "area": "650 sqft"
+  },
+  {
+    "address": "3601-501 Yonge Street Toronto ON",
+    "price": "865,000",
+    "bed": "1+1 bed",
+    "bath": "1 bath",
+    "area": "500-599 sqft"
+  },
+  {
+    "address": "522-628 Fleet Street Toronto ON",
+    "price": "649,000",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "500-599 sqft"
+  },
+  {
+    "address": "331-500 Richmond Street W Toronto ON",
+    "price": "989,000",
+    "bed": "2 bed",
+    "bath": "1 bath",
+    "area": "1000-1199 sqft"
+  },
+  {
+    "address": "24 Broomfield Drive Toronto ON",
+    "price": "899,000",
+    "bed": "3+1 bed",
+    "bath": "3 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "5-301 Washburn Way Toronto ON",
+    "price": "659,900",
+    "bed": "3 bed",
+    "bath": "2 bath",
+    "area": "1200-1399 sqft"
+  },
+  {
+    "address": "104-4005 Don Mills Road Toronto ON",
+    "price": "688,000",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "1200-1399 sqft"
+  },
+  {
+    "address": "214-1100 Lansdowne Avenue Toronto ON",
+    "price": "699,999",
+    "bed": "2 bed",
+    "bath": "1 bath",
+    "area": "700-799 sqft"
+  },
+  {
+    "address": "204-1 Dale Avenue Toronto ON",
+    "price": "549,000",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "600-699 sqft"
+  },
+  {
+    "address": "507-1 Bloor Street E Toronto ON",
+    "price": "1,388,888",
+    "bed": "2 bed",
+    "bath": "3 bath",
+    "area": "1200-1399 sqft"
+  },
+  {
+    "address": "2005-77 Shuter Street S Toronto ON",
+    "price": "565,000",
+    "bed": "1+1 bed",
+    "bath": "1 bath",
+    "area": "500-599 sqft"
+  },
+  {
+    "address": "405-3 Southvale Drive Toronto ON",
+    "price": "1,337,200",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "1000-1199 sqft"
+  },
+  {
+    "address": "28 Arjay Crescent Toronto ON",
+    "price": "7,999,000",
+    "bed": "5+1 bed",
+    "bath": "8 bath",
+    "area": "5000+ sqft"
+  },
+  {
+    "address": "218 Dunforest Avenue Toronto ON",
+    "price": "4,080,000",
+    "bed": "5+1 bed",
+    "bath": "6 bath",
+    "area": "3500-5000 sqft"
+  },
+  {
+    "address": "38 Fifeshire Road Toronto ON",
+    "price": "6,149,000",
+    "bed": "4+1 bed",
+    "bath": "5 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "159-8 Foundry Avenue Toronto ON",
+    "price": "789,900",
+    "bed": "2+1 bed",
+    "bath": "2 bath",
+    "area": "800-899 sqft"
+  },
+  {
+    "address": "216-90 Park Lawn Road Toronto ON",
+    "price": "980,000",
+    "bed": "2+1 bed",
+    "bath": "2 bath",
+    "area": "900-999 sqft"
+  },
+  {
+    "address": "39 Woody Vine Way Toronto ON",
+    "price": "838,000",
+    "bed": "4+1 bed",
+    "bath": "3 bath",
+    "area": "1200-1399 sqft"
+  },
+  {
+    "address": "1603-101 Peter Street Toronto ON",
+    "price": "N/A",
+    "bed": "\u2014 bed",
+    "bath": "\u2014 bath",
+    "area": "\u2014 sqft"
+  },
+  {
+    "address": "70 Bards Walkway N/a Toronto ON",
+    "price": "899,900",
+    "bed": "3 bed",
+    "bath": "3 bath",
+    "area": "1400-1599 sqft"
+  },
+  {
+    "address": "3604-159 Dundas Street E Toronto ON",
+    "price": "629,999",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "500-599 sqft"
+  },
+  {
+    "address": "128 Mercury Road S Toronto ON",
+    "price": "1,279,000",
+    "bed": "4+1 bed",
+    "bath": "3 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "12 Rotary Drive Toronto ON",
+    "price": "799,000",
+    "bed": "3 bed",
+    "bath": "2 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "2608-95 Mcmahon Drive S Toronto ON",
+    "price": "599,000",
+    "bed": "1+1 bed",
+    "bath": "1 bath",
+    "area": "500-599 sqft"
+  },
+  {
+    "address": "2009-225 Village Green Square Toronto ON",
+    "price": "599,000",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "600-699 sqft"
+  },
+  {
+    "address": "114 Oakridge Drive Toronto ON",
+    "price": "1,219,900",
+    "bed": "3+1 bed",
+    "bath": "2 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "177 Melrose Avenue Toronto ON",
+    "price": "1,200,000",
+    "bed": "3 bed",
+    "bath": "1 bath",
+    "area": "1100-1500 sqft"
+  },
+  {
+    "address": "18 Ramblewood Drive Toronto ON",
+    "price": "1,729,800",
+    "bed": "5 bed",
+    "bath": "4 bath",
+    "area": "3000-3500 sqft"
+  },
+  {
+    "address": "1506-120 Harrison Garden Boulevard Toronto ON",
+    "price": "799,000",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "700-799 sqft"
+  },
+  {
+    "address": "143 Silverstone Drive Toronto ON",
+    "price": "950,000",
+    "bed": "3 bed",
+    "bath": "2 bath",
+    "area": "51-99 Years Old"
+  },
+  {
+    "address": "G1-284 Mill Road Toronto ON",
+    "price": "455,000",
+    "bed": "1 bed",
+    "bath": "2 bath",
+    "area": "800-899 sqft"
+  },
+  {
+    "address": "104 Farm Greenway N/a Toronto ON",
+    "price": "996,000",
+    "bed": "3 bed",
+    "bath": "2 bath",
+    "area": "1400-1599 sqft"
+  },
+  {
+    "address": "1205-251 Manitoba Street Toronto ON",
+    "price": "610,000",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "500-599 sqft"
+  },
+  {
+    "address": "9-55 Brimwood Boulevard Toronto ON",
+    "price": "799,000",
+    "bed": "4+1 bed",
+    "bath": "4 bath",
+    "area": "1400-1599 sqft"
+  },
+  {
+    "address": "5707-88 Harbour Street Toronto ON",
+    "price": "679,900",
+    "bed": "1+1 bed",
+    "bath": "1 bath",
+    "area": "600-699 sqft"
+  },
+  {
+    "address": "42 Mac Frost Way W Toronto ON",
+    "price": "990,000",
+    "bed": "3+1 bed",
+    "bath": "5 bath",
+    "area": "1500-2000 sqft"
+  },
+  {
+    "address": "607-30 Baseball Place Toronto ON",
+    "price": "499,800",
+    "bed": "1+1 bed",
+    "bath": "1 bath",
+    "area": "600-699 sqft"
+  },
+  {
+    "address": "2101-5444 Yonge Street Toronto ON",
+    "price": "898,000",
+    "bed": "2 bed",
+    "bath": "2 bath",
+    "area": "1200-1399 sqft"
+  },
+  {
+    "address": "302-600 Queens Quay W Toronto ON",
+    "price": "659,000",
+    "bed": "1+1 bed",
+    "bath": "1 bath",
+    "area": "700-799 sqft"
+  },
+  {
+    "address": "1701-5791 Yonge Street Toronto ON",
+    "price": "575,000",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "500-599 sqft"
+  },
+  {
+    "address": "87 Oxford Street Toronto ON",
+    "price": "1,649,900",
+    "bed": "3+1 bed",
+    "bath": "4 bath",
+    "area": "N/A"
+  },
+  {
+    "address": "1901-99 Broadway Avenue Toronto ON",
+    "price": "549,000",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "0-499 sqft"
+  },
+  {
+    "address": "76 Shuter Street Toronto ON",
+    "price": "599,000",
+    "bed": "1 bed",
+    "bath": "1 bath",
+    "area": "731 sqft"
+  }
+]
