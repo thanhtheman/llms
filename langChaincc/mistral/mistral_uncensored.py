@@ -23,5 +23,5 @@ print(output[0]['generated_text'])
 # -X POST \
 # -d '{"compute":{"accelerator":"gpu","instanceSize":"medium","instanceType":"g5.2xlarge","scaling":{"maxReplica":1,"minReplica":1}},"model":{"framework":"pytorch","image":{"custom":{"health_route":"/health","env":{"MAX_BATCH_PREFILL_TOKENS":"2048","MAX_INPUT_LENGTH":"1024","MAX_TOTAL_TOKENS":"1512","MODEL_ID":"/repository"},"url":"ghcr.io/huggingface/text-generation-inference:1.1.0"}},"repository":"ehartford/dolphin-2.0-mistral-7b","task":"text-generation"},"name":"aws-dolphin-2-0-mistral-7b-0108","provider":{"region":"us-east-1","vendor":"aws"},"type":"protected"}' \
 # -H "Content-Type: application/json" \
-# -H "Authorization: Bearer ZejkvHhTjnYHtrdhKsUbEAkrgkIQIvQbqklcpBMSHeiCszvSyxGFYKfGIjLYfqJmczKcYBaRYLWLtTSIHNAlslXJFCMeATlHddlXPgiGdtTeyJfrslyiTYCbNDsvndTK"
+# -H "Authorization: Bearer XXXX"
 # print(output)"""
