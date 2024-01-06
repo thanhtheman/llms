@@ -35,9 +35,9 @@ functions = [
     }
 ]
 # map_ = RunnableMap(role=RunnablePassthrough())
-prompt = ChatPromptTemplate.from_template("tell a joke about a {role}")
-model = ChatOpenAI()
+prompt = ChatPromptTemplate.from_template("tell a joke about a {role} in the {year} style")
+model = ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0.7)
 
-chain = ({"role": RunnablePassthrough()} | prompt | model.bind(function_call={"name": "joke"}, functions=functions) | JsonOutputFunctionsParser())
-response = chain.invoke({"stupid librarian"})
+chain = ({"role": RunnablePassthrough(), "year":RunnablePassthrough()} | prompt | model.bind(function_call={"name": "joke"}, functions=functions) | JsonOutputFunctionsParser())
+response = chain.invoke({"stupid librarian", "90s"})
 print(response)

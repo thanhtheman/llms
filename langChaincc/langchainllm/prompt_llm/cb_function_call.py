@@ -10,7 +10,7 @@ We need to parse the output (which will be used downstream) into a structured fo
 """
 
 prompt = ChatPromptTemplate.from_template("tell a joke about a {role}")
-model = ChatOpenAI()
+model = ChatOpenAI(model_name="gpt-3.5-turbo", temperature=0.7)
 
 functions = [
     {
